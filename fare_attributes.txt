@@ -1,0 +1,10 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+262,1256,2.00,USD,0,0,0
+262,5171,4.00,USD,0,0,0
+262,5172,25.00,USD,0,0,0
+262,5173,50.00,USD,0,0,0
+262,5174,500.00,USD,1,0,0
+262,5175,2.00,USD,0,0,0
+262,5176,1.00,USD,0,0,0
+262,5177,12.50,USD,0,0,0
+262,5178,25.00,USD,0,0,0

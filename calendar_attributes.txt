@@ -1,0 +1,5 @@
+service_id,service_description
+c_15952_b_30799_d_64,Normal Fixed Route Schedule  (Sunday only)
+c_15952_b_30799_d_63,Normal Fixed Route Schedule  (No Sunday)
+c_15952_b_30799_d_32,Normal Fixed Route Schedule  (Saturday only)
+c_15952_b_30799_d_31,Normal Fixed Route Schedule  (Weekday)

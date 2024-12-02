@@ -1,0 +1,18 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+262,2054,,1A,"Downtown Lynchburg, White Rock, LGH, Plaza Memorial",3,http://www.gltconline.com/1a/,b62b2b,ffffff,0,60,0,1,1,,1A
+262,76433,,7B,"River Ridge Mall, CVCC, Kroger, Waterlick Plaza, Social Security",3,,0eeea6,,1,,0,1,1,,
+262,2136,,7A,"River Ridge Mall, CVCC, Kroger, J Crew, Social Security",3,http://www.gltconline.com/route-7/,00ff7f,000000,10,,0,1,1,,
+262,12366,,8,"Birchwood, Old Forest Walmart, Fresh Market, Clear Brook",3,http://www.gltconline.com/route-8-2/,9fc52b,ffffff,11,60,0,1,1,,
+262,2140,,9,"Post Office, DMV, VEC, River Ridge Mall, Genworth",3,http://www.gltconline.com/route-9/,fffe00,000000,12,60,0,1,1,,
+262,2141,,10,"Plaza Memorial, Fort Hill Village, River Ridge Mall, Sandusky",3,http://www.gltconline.com/route-10-2/,f08d26,ffffff,13,60,0,1,1,,
+262,12369,,11,"Fort Hill Village, Kroger, Startek, Social Security, Fort Early",3,http://www.gltconline.com/route-11/,c34b20,ffffff,14,60,0,1,1,,
+262,12370,,12,"University of Lynchburg, Veterans Affairs Center, Fresh Market, J Crew",3,http://www.gltconline.com/route-12/,de7b9e,ffffff,15,60,0,1,1,,
+262,15093,,12X,"University of Lynchburg, Veterans Affairs Center, Fresh Market, Walden Pond",3,http://www.gltconline.com/route-12x/,da7777,ffffff,16,60,0,1,1,,
+262,2096,,1B,"Plaza Memorial, LGH, Downtown Lynchburg, White Rock",3,http://www.gltconline.com/1b/,d01c1c,ffffff,2,60,0,1,1,,
+262,2097,,2,"Campbell Ave, Hudson House, Florida Ave, James Crossing",3,http://www.gltconline.com/route-2-2/,72127e,ffffff,3,30,0,1,1,,
+262,2109,,3A,"Downtown Lynchburg, VBH, Maple Ridge Apartments, Daniel’s Hill",3,http://www.gltconline.com/route-3a-2/,a92973,ffffff,4,60,0,1,1,,
+262,2110,,3B,"VBH, Boonsboro, Randolph College, DTWN Lynchburg",3,http://www.gltconline.com/route-3b-2/,a92973,ffffff,5,60,0,1,1,,
+262,12357,,4,"River Ridge Mall, LU, CVCC, Wards Walmart, Kohls, LYH Airport",3,http://www.gltconline.com/route-4-2/,2b408f,ffffff,6,90,0,1,1,,
+262,17130,,5 ,"Madison Heights, Downtown Lynchburg",3,http://www.gltconline.com/route-5/,00befd,000000,7,120,0,1,1,,
+262,17122,,6 ,"River Ridge Mall, CVCC, Nationwide Drive, Fresh Market",3,http://www.gltconline.com/route-6/,76db5b,000000,8,,0,1,1,,
+262,12365,,6/7X,"River Ridge Mall, CVCC, Heritage, Startek, J Crew, Nationwide",3,http://www.gltconline.com/route-6-7x/,29685b,ffffff,9,,0,1,1,,

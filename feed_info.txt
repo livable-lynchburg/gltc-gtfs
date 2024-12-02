@@ -1,0 +1,2 @@
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
+http://www.trilliumtransit.com,"Trillium Solutions, Inc. client-initiated export",en,UTC: 15-Oct-2024 14:28,,wwattsII@gltconline.com,http://support.trilliumtransit.com,20241015,20260101,gltc-lynchburg-va-us
