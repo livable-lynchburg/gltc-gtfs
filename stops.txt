@@ -126,6 +126,8 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 4248877,,,Memorial Ave./Blue Ridge Therapy Assoc.,,37.40843277789314,-79.16226064335876,,,0,,America/New_York,,,0,
 4248878,,,Memorial Ave./J Mart,,37.409816614712724,-79.1602291632566,,,0,,America/New_York,,,0,
 4248879,,,Memorial Ave./J Mart,,37.40969403266379,-79.16019067436703,,,0,,America/New_York,,,0,
+4249720,,,Rivermont Ave. & Marshall St.,,37.4316353398944,-79.15543488344247,,,0,,America/New_York,,,0,
+4253402,,,Bedford Ave./Faquier St.,,37.43045263786955,-79.15840477411055,,,0,,America/New_York,,,0,
 785809,,,Kemper Street Transfer Station,,37.4083226418643,-79.1573913129674,9910,,0,4230389,,,,1,
 785810,,,Fort Ave. & Campbell Ave. (Inbound),,37.403152,-79.158606,,,0,,America/New_York,,,0,
 785812,,,15Th St. &  Buchanan St. (Outbound),,37.402122,-79.15186,,,0,,America/New_York,,,0,
